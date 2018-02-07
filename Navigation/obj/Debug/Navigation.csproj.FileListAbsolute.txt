@@ -1,0 +1,9 @@
+C:\Users\Hossam\Desktop\New folder (6)\WifiProject_V1.1\WifiProject\Navigation\bin\Debug\Navigation.exe.config
+C:\Users\Hossam\Desktop\New folder (6)\WifiProject_V1.1\WifiProject\Navigation\bin\Debug\Navigation.exe
+C:\Users\Hossam\Desktop\New folder (6)\WifiProject_V1.1\WifiProject\Navigation\bin\Debug\Navigation.pdb
+C:\Users\Hossam\Desktop\New folder (6)\WifiProject_V1.1\WifiProject\Navigation\obj\Debug\Navigation.csprojResolveAssemblyReference.cache
+C:\Users\Hossam\Desktop\New folder (6)\WifiProject_V1.1\WifiProject\Navigation\obj\Debug\Navigation.Form1.resources
+C:\Users\Hossam\Desktop\New folder (6)\WifiProject_V1.1\WifiProject\Navigation\obj\Debug\Navigation.Properties.Resources.resources
+C:\Users\Hossam\Desktop\New folder (6)\WifiProject_V1.1\WifiProject\Navigation\obj\Debug\Navigation.csproj.GenerateResource.Cache
+C:\Users\Hossam\Desktop\New folder (6)\WifiProject_V1.1\WifiProject\Navigation\obj\Debug\Navigation.exe
+C:\Users\Hossam\Desktop\New folder (6)\WifiProject_V1.1\WifiProject\Navigation\obj\Debug\Navigation.pdb
